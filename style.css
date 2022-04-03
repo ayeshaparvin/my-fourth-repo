@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 500px;
+    height: 700px;
+    background-color:  grey;
+    border-radius: 5px;
+    padding: 20px 20px;
+}
+.left-bar{
+    background-color: purple;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.left-head{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:chartreuse
+}
+.left-para{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.more{
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 5px 5px;
+    margin-left: 170px;
+    
+}
